@@ -2637,8 +2637,6 @@ http://freeiptv.ottc.xyz:80/live/{USERNAME}/{PASSWORD}/12044.ts
 http://freeiptv.ottc.xyz:80/live/{USERNAME}/{PASSWORD}/11983.ts
 #EXTINF:-1 tvg-name="AR| BEIN SPORTS 05 AFC [480p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19iRtsCrCc9uPKzDmHG2IxHX%2Bhqlyn%2Fs9fjkCBmH9m6yHfrpDN1eKpa" group-title="AR | BEIN SPORTS",AR| BEIN SPORTS 05 AFC [480p]
 http://freeiptv.ottc.xyz:80/live/{USERNAME}/{PASSWORD}/11981.ts
-#EXTINF:-1 tvg-name="✶⋆✶ CINEMA ✶⋆✶ " tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18LXr09YmdS6VwL2DdlPSSXhZ3scubrDEoRxlhZhtGVOaW88wRWbFuW" group-title="AM | MEXICO",✶⋆✶ CINEMA ✶⋆✶
-http://freeiptv.ottc.xyz:80/live/{USERNAME}/{PASSWORD}/30155.ts
 #EXTINF:-1 tvg-name="BEIN| BEIN MOVIES 1 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19M1526L05TgK3yys6JYEWnkIdmLYygSx%2B982nBoFONKuDoMF5VLAnJZBQ4yikIYQDoODLVNhNSQw%3D%3D" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN MOVIES 1 [720p]
 http://freeiptv.ottc.xyz:80/live/{USERNAME}/{PASSWORD}/10235.ts
 #EXTINF:-1 tvg-name="BEIN| BEIN MOVIES 1 [H265]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FnAc%2FHETCv2RnvAbcLmDtyR56exaydnmFmv7X1ogoBl3P6GPvn6%2F3cQQ2A0pwQAA%2FzHZ2tJnp5%2Fg%3D%3D" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN MOVIES 1 [H265]
@@ -2883,8 +2881,6 @@ http://freeiptv.ottc.xyz:80/live/{USERNAME}/{PASSWORD}/10999.ts
 http://freeiptv.ottc.xyz:80/live/{USERNAME}/{PASSWORD}/11021.ts
 #EXTINF:-1 tvg-name="ROT| ROTANA MUSIC [H265]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19vGGP5TEWjeRJDQnu9Bg8%2F8we7nLhgGsMI81tQgQEOXLd7VWugj3tNc3%2BqCxUlPY%2BX4A%2BuT6HXJw%3D%3D" group-title="AR | ROTANA",ROT| ROTANA MUSIC [H265]
 http://freeiptv.ottc.xyz:80/live/{USERNAME}/{PASSWORD}/10997.ts
-#EXTINF:-1 tvg-name="✶⋆✶CINEMA✶⋆✶ " tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FIRqMopzHl2wmRjI7Gfdr1bc8TvuO3ZTWdSi2X8utYdKXh76l52Vyi" group-title="AM | CANADA CINEMA",✶⋆✶CINEMA✶⋆✶
-http://freeiptv.ottc.xyz:80/live/{USERNAME}/{PASSWORD}/29725.ts
 #EXTINF:-1 tvg-name="AR| OSN Movies Premiere " tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BrOmVgGd%2FFofxywUkzTPzGv5InYVZbqe99QuvL0%2BI07IOOUKpkPHvX" group-title="AR | OSN",AR| OSN Movies Premiere
 http://freeiptv.ottc.xyz:80/live/{USERNAME}/{PASSWORD}/10383.ts
 #EXTINF:-1 tvg-name="AR| OSN Movies Premiere +2 " tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18WmfKZAgVItUSgX2v9tG5r0Mx1VPzUlNSRqb6uXg%2B%2FQ2pgCOEQHaOt" group-title="AR | OSN",AR| OSN Movies Premiere +2
@@ -3009,8 +3005,6 @@ http://freeiptv.ottc.xyz:80/live/{USERNAME}/{PASSWORD}/10370.ts
 http://freeiptv.ottc.xyz:80/live/{USERNAME}/{PASSWORD}/10371.ts
 #EXTINF:-1 tvg-name="OSN| REEL PX ACTION" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BI66JTpHrpCsEMjweUPbmjPUTpcWYWqbhQu8Aa8Bs%2F%2FqDyS5vlgBoC" group-title="AR | OSN",OSN| REEL PX ACTION
 http://freeiptv.ottc.xyz:80/live/{USERNAME}/{PASSWORD}/10372.ts
-#EXTINF:-1 tvg-name="✶⋆✶KIDS✶⋆✶ " tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2Bdx6if3m1WFOri03Q5X7%2Fh1wWzSYLEbyarZPUvLnK%2F8M9xJ8iEY%2FYX" group-title="AM | CANADA KIDS",✶⋆✶KIDS✶⋆✶
-http://freeiptv.ottc.xyz:80/live/{USERNAME}/{PASSWORD}/29762.ts
 #EXTINF:-1 tvg-name="OSN| OSN NICKTOONS " tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BPE8JBxzWuLYs%2FKV2wVyOgCELTEzl4tekgS%2B8fmY0PFOwVGTOuHaYb" group-title="AR | OSN",OSN| OSN NICKTOONS
 http://freeiptv.ottc.xyz:80/live/{USERNAME}/{PASSWORD}/10343.ts
 #EXTINF:-1 tvg-name="OSN| OSN NICKELODEON " tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FhOQooeSmDRsNnG0Ij3qR1a%2Bz7Lil4NmwRI7bIJn7YJEYa9SDRDdFZK%2BverLskyA%2BRBd3OksuGow%3D%3D" group-title="AR | OSN",OSN| OSN NICKELODEON
