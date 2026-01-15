@@ -57,12 +57,34 @@ def is_adult(info):
 
 
 def is_blocked_country(info):
-    t = " " + info.lower() + " "
-    if any(w in t for w in BLOCK_COUNTRIES_WORDS):
+    t = info.lower()
+
+    # group-title check
+    m = re.search(r'group-title="([^"]+)"', info, re.I)
+    if m:
+        g = m.group(1).lower()
+        if g.startswith("fr") or " fr " in f" {g} ":
+            return True
+        if any(w in g for w in BLOCK_COUNTRIES_WORDS):
+            return True
+
+    # channel name after comma
+    if "," in info:
+        name = info.split(",",1)[1].lower()
+
+        if name.startswith(("fr ", "fr|", "fr-", "de ", "de|", "tr ", "tr|", "uk ", "us ", "ca ","af " ,"eu ","alb ","HU ","nl ","es ","mr " )):
+            return True
+
+        if any(w in name for w in BLOCK_COUNTRIES_WORDS):
+            return True
+
+    # generic code check
+    t2 = " " + t + " "
+    if any(code in t2 for code in BLOCK_COUNTRY_CODES):
         return True
-    if any(code in t for code in BLOCK_COUNTRY_CODES):
-        return True
+
     return False
+
 
 
 # ================== SESSION ==================
